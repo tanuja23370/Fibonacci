@@ -1,5 +1,3 @@
-package Fibonacci;
-
 public class FibonacciSeries {
     public static void main(String[] args) {
         int count = 10; // You can modify this value as needed
